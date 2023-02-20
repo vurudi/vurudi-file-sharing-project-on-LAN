@@ -1,0 +1,12 @@
+this i a python project.
+It has two scripts the send.py and the recieve.py 
+this two scripts implement file transfar protocol in python
+
+the recieve script acts as the server waiting for new connection 
+and whenever one is detected it ges ready to recieve files 
+
+the send.py script on the othe hand acts as the client that trys to 
+connect to the serer this case recieve.py script at run time. 
+
+if the server is up and running the connetion is established and the client or send 
+module is ready to share files  else connection fails the client crushes 
